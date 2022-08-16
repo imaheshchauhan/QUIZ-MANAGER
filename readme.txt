@@ -1,4 +1,5 @@
 Quiz Manager
+============
 
 A concole based quiz manager where admin can create, read, update, delete and search the questionaries. questionary will either MCQ or Open.
 Student can attend quiz based on topic which is created by admin and get marks after completing quiz.
